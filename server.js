@@ -26,7 +26,7 @@
 
     app.use(
     morgan(
-        ":date[iso] | :remote-addr | :id | :method :url | :status | :user-agent",
+        ":date[iso] | :remote-addr | :id | :method :url | :status | rt=:response-time ms | :user-agent",
         { stream: accessLogStream }
     )
     );
