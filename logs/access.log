@@ -1,0 +1,14 @@
+2026-01-30T08:38:01.377Z | ::1 | 38b546af-7e47-4b20-8881-2e0175036091 | GET / | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.478Z | ::1 | 46411ef2-6431-4179-a8cf-3dbecacdbddc | GET /style.css | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.492Z | ::1 | c1b5b744-61f2-4484-8915-cebb92327c6a | GET /language.jpg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.525Z | ::1 | c832fa2e-10dc-42e1-b97a-d46cefd678e8 | GET /iac.png | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.536Z | ::1 | 2d1b8180-6144-4597-8cd8-ad81855a5837 | GET /sakshi.jpeg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.547Z | ::1 | ec4ea920-77ae-4516-be02-9f94d29f7c92 | GET /monitoring.jpg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.555Z | ::1 | 3bceb8b0-ccd1-43c4-b6ee-0b691438e0e8 | GET /cloud.jpg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.559Z | ::1 | cabc8ba9-3eb3-4e2f-8d14-3cfe555502f8 | GET /script.js | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.577Z | ::1 | 9af28978-8d34-4f7f-b010-a8514d5c68be | GET /ci_cd.jpg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.594Z | ::1 | dcc88105-1fe4-4c80-b0cc-c27e603e3374 | GET /networking.jpg | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.613Z | ::1 | 8089c753-44a1-495d-a2d1-c77c3c4c9599 | GET /jira-and-confluence.png | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.682Z | ::1 | 42593e9b-62e1-4bd8-9db1-56ef85756b96 | GET /devops.png | 200 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:01.917Z | ::1 | e38da77b-6389-424c-8b24-0809ec663221 | POST /log | 204 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+2026-01-30T08:38:02.114Z | ::1 | 9b2a658a-fc84-4a1f-b200-cf7732959c4e | GET /favicon.ico | 404 | Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
